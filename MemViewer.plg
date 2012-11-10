@@ -1,0 +1,34 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: MemViewer - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\obaby\AppData\Local\Temp\RSP3AE1.tmp" with contents
+[
+/nologo /MT /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "MEMVIEWER_EXPORTS" /Fp"Release/MemViewer.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"F:\IDA OD Plugins\od im plugins\MemViewer\MemViewer.cpp"
+]
+Creating command line "cl.exe @C:\Users\obaby\AppData\Local\Temp\RSP3AE1.tmp" 
+Creating temporary file "C:\Users\obaby\AppData\Local\Temp\RSP3AE2.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /dll /incremental:no /pdb:"Release/MemViewer.pdb" /machine:I386 /out:"Release/MemViewer.dll" /implib:"Release/MemViewer.lib" 
+".\Release\MemViewer.obj"
+".\Release\plugin.res"
+]
+Creating command line "link.exe @C:\Users\obaby\AppData\Local\Temp\RSP3AE2.tmp"
+<h3>Output Window</h3>
+Compiling...
+MemViewer.cpp
+Linking...
+   Creating library Release/MemViewer.lib and object Release/MemViewer.exp
+
+
+
+<h3>Results</h3>
+MemViewer.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,1 @@
+@COPY "F:\IDA OD Plugins\MemViewer\RELEASE\MemViewer.dll" "F:\IDA OD Plugins\MemViewer\publish\MemViewer-im.dll"

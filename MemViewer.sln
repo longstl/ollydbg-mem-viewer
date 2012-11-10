@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MemViewer", "MemViewer.vcxproj", "{EE03AB28-B671-4DFF-B1B8-A8F4341A6333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE03AB28-B671-4DFF-B1B8-A8F4341A6333}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE03AB28-B671-4DFF-B1B8-A8F4341A6333}.Debug|Win32.Build.0 = Debug|Win32
+		{EE03AB28-B671-4DFF-B1B8-A8F4341A6333}.Debug|Win32.Deploy.0 = Debug|Win32
+		{EE03AB28-B671-4DFF-B1B8-A8F4341A6333}.Release|Win32.ActiveCfg = Release|Win32
+		{EE03AB28-B671-4DFF-B1B8-A8F4341A6333}.Release|Win32.Build.0 = Release|Win32
+		{EE03AB28-B671-4DFF-B1B8-A8F4341A6333}.Release|Win32.Deploy.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
